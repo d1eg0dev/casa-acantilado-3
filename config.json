@@ -48,7 +48,14 @@
     "logo": "",
     "maxGuests": 8,
     "name": "Casa Acantilado",
-    "photos": [],
+    "photos": [
+      "fotos/01.jpg",
+      "fotos/02.jpg",
+      "fotos/03.jpg",
+      "fotos/04.jpg",
+      "fotos/05.jpg",
+      "fotos/06.jpg"
+    ],
     "tagline": {
       "en": "Oceanfront on the Colima coast",
       "es": "Frente al mar, en la costa de Colima"
